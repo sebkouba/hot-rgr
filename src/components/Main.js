@@ -10,8 +10,8 @@ class Main extends React.Component {
   constructor(props) {
     super(props);
 
-    //this.state = _getAppState(); // nothing at this point
-    this.state = { links: [] };
+    this.state = _getAppState(); // nothing at this point
+    //this.state = { links: [] };
     this.onChange = this.onChange.bind(this);
   }
 

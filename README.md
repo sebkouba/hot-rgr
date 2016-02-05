@@ -1,7 +1,7 @@
 # Edited Boilerplate for Pluralsight RGR Course
 
 I added the code from the course to Dan's Boilerplate.
-This is the original Readme from[**Dan Abramov's repo**](https://github.com/gaearon/react-transform-boilerplate).
+This is the original Readme from [**Dan Abramov's repo**](https://github.com/gaearon/react-transform-boilerplate).
 
 # React Transform Boilerplate
 

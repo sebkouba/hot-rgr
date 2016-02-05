@@ -4,7 +4,7 @@ import {ActionTypes} from "../Constants";
 let ServerActions = {
   receiveLinks(links) {
     AppDispatcher.dispatch({
-      actionType: "ActionTypes.RECEIVE_LINKS",
+      actionType: ActionTypes.RECEIVE_LINKS,
       links: links
     })
   }
