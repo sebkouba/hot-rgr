@@ -1,3 +1,6 @@
+/** Create the bundle.js file
+ * take care of the javascript modules
+ * */
 var path = require('path');
 var webpack = require('webpack');
 
