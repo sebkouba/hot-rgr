@@ -1,3 +1,5 @@
+# Edited Boilerplate for Pluralsight RGR Course
+
 # React Transform Boilerplate
 
 [![react-transform channel on Discord](https://img.shields.io/badge/discord-react--transform%40reactiflux-61DAFB.svg?style=flat-square)](http://www.reactiflux.com)
